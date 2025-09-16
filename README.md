@@ -1,0 +1,1 @@
+# Penerapan-Sistem-Pakar-untuk-Memprediksi-Harga-Bitcoin-dengan-Metode-LSTM
