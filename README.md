@@ -10,5 +10,6 @@ Data yang digunakan dalam penelitian ini merupakan data historis pergerakan harg
 
 # Hasil
 <img width="392" height="204" alt="image" src="https://github.com/user-attachments/assets/c422b8f8-c53f-44e5-91f6-6471e577f64f" />
+
 Grafik prediksi harga Bitcoin USD menunjukkan kesesuaian dengan data sebenarnya. Kesimpulannya, model LSTM ini berhasil memprediksi pergerakan harga Bitcoin USD dengan tingkat akurasi yang dapat diterima. Terlihat bahwa prediksi hari ke-301 atau pada 25 Januari 2025, harga Bitcoin USD cenderung turun pada rentang harga 60.000 USD
 
