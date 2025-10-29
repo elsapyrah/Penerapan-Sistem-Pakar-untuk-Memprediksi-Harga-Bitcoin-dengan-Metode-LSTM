@@ -15,7 +15,7 @@ Mengembangkan model prediksi harga Bitcoin menggunakan Long Short-Term Memory (L
 # Data
 Data yang digunakan dalam penelitian ini merupakan data historis pergerakan harga Bitcoin dalam USD, yang diambil dari platform Kaggle. Dataset mencakup periode dari 1 Februari 2015 hingga 29 April 2024 dan disajikan dalam bentuk tabel dengan 20 atribut yang mewakili berbagai aspek harga dan indikator teknis. 
 
-# Evaluasi
+# Evaluasi Model
 1. Mean Squared Error (MSE)  
 2. Root Mean Squared Error (RMSE) 
 
