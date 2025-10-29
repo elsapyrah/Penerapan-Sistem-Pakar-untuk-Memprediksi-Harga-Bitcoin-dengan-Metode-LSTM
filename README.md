@@ -2,6 +2,7 @@
 
 # Deskripsi Proyek
 LSTM adalah jenis jaringan saraf yang dirancang untuk membantu komputer belajar dari data yang memiliki urutan waktu, seperti harga saham. 
+
 Arsitektur LSTM:
 <img width="489" height="345" alt="image" src="https://github.com/user-attachments/assets/03cff8d3-e897-4556-8d7d-10f4cdea9842" />
 
